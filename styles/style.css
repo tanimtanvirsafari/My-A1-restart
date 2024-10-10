@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 150px;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.btn-resume{
+    padding: 15px 22px;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+    background-color: white;
+}
+.logo p{
+    width: 128px;
+    height: 33px;
+    margin-left: 150px;
+   
+    color: rgb(13, 19, 33);
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+
+}
+/* banner-section */
+.banner-section{
+    background-image: url(../images/Hero-bg.png);
+    width: 1440px;
+    height: 652px;
+}
+.banner-img{
+    padding: 26px 0px 0px 0px;
+    text-align: center;
+}
+.banner-title{
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin: 32px 221px 24px 221px;
+}
+.banner-description{
+    margin: 10px 294px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+#design{
+    padding: 21px 24px;
+    border-radius: 8px;
+
+    background: rgb(13, 19, 33);
+    color: white;
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
