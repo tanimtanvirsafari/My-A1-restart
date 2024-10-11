@@ -161,3 +161,53 @@
     border-radius: 16px;
 
 }
+/* My current target section */
+.My-current-target{
+    text-align: center;
+    margin-top: 24px 294px;
+}
+.image-1{
+    background-color: #FFE4E1;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    text-align: left;
+}
+.image-2{
+    background-color: #E0FFFF;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    text-align: left;
+}
+.image-3{
+    background-color: #FFFFE0;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    text-align: left;
+}
+.All-image h2{
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 800;
+}
+.All-image p{
+    font-size: 1rem;
+    color: #666;
+    margin: 18px 0px;
+
+}
+.All-image a{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #000;
+    margin: 18px 0px;
+    
+}
+.All-image{
+    display: flex;
+    margin: 0px 180px;
+}
+
+/* My next Target */
