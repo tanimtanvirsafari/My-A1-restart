@@ -211,3 +211,47 @@
 }
 
 /* My next Target */
+.center{
+    text-align: center;
+}
+.center p{
+    font-size: 1rem;
+    color: #666;
+    margin: 24px 249px;
+}
+.react a{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+}
+.react p{
+    margin: 10px 0px;
+}
+.my-next-target-image{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    gap: 32px;
+   
+    max-width: 1140px;
+    height: 150px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 32;
+    padding: 30px;
+    margin: 30px 24px;
+}
+.react h3{
+    font-size: 24px;
+    font-weight: 800;
+}
+.react{
+    text-align: left;
+}
+.three-img-father{
+    margin-left: 190px;
+}
+
+/* I need support */
