@@ -132,3 +132,32 @@
     border-radius: 16px;
     background-color: rgba(13,19,33,0.02);
 }
+/* inspiration & social media added section */
+.inspiration-text{
+    text-align: center;
+    margin: 24px 294px;
+}
+.inspiration-text p{
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+
+#inspiar{
+    text-align: center;
+}
+#inspire-section{
+    text-align: center;
+}
+.social-link{
+    width: 1076px;
+    height: 550px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: auto;
+    box-sizing: border-box;
+    border: 3px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+
+}
