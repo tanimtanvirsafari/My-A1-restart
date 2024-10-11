@@ -12,7 +12,8 @@
     margin-bottom: 50px;
 }
 .btn-resume{
-    padding: 15px 22px;
+    outline: none;
+    padding: 17px 24px;
     color: rgb(13, 19, 33);
     font-size: 20px;
     font-weight: 600;
@@ -27,7 +28,7 @@
     margin-left: 150px;
    
     color: rgb(13, 19, 33);
-    font-size: 28px;
+    font-size: 40px;
     font-weight: 800;
     line-height: 33px;
     letter-spacing: 0%;
@@ -64,10 +65,11 @@
 }
 #design{
     padding: 21px 24px;
+    gap: 0 0 0 45px 0;
     border-radius: 8px;
-
     background: rgb(13, 19, 33);
     color: white;
+    font-weight: bold;
 }
 .btn{
     margin-top: 20px;
