@@ -38,14 +38,16 @@
 /* banner-section */
 .banner-section{
     background-image: url(../images/Hero-bg.png);
-    width: 1440px;
-    height: 652px;
+   
+    
 }
 .banner-img{
+    
     padding: 26px 0px 0px 0px;
     text-align: center;
 }
 .banner-title{
+    
     color: rgb(13, 19, 33);
     font-size: 48px;
     font-weight: 800;
@@ -70,4 +72,6 @@
 .btn{
     margin-top: 20px;
     margin-bottom: 30px;
+    padding-bottom: 20px;
 }
+/* why dev section */
