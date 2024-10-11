@@ -206,6 +206,7 @@
     
 }
 .All-image{
+    
     display: flex;
     margin: 0px 180px;
 }
@@ -253,5 +254,9 @@
 .three-img-father{
     margin-left: 190px;
 }
+.img-next-target img{
+    width: 100px;
+}
+
 
 /* I need support */
