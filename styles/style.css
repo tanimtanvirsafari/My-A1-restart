@@ -260,3 +260,59 @@
 
 
 /* I need support */
+
+.I-need-support{
+    background-image: url(../images/handshake.jpg);
+    color: aliceblue;
+    position: static;
+    width: 1044px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24;
+    padding: 0px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 32px 260px;
+    border-radius: 20px;
+}
+.I-need-support h2{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+.I-need-support p{
+    margin: 20px 290px;
+    text-align: center;
+}
+.input input{
+    padding: 5px 50px;
+    border-radius: 5px;
+    border: none;
+}
+.input button{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* footer */
+
+.footer{
+    background-color: rgba(13,19,33,0.03);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32;
+    padding: 32px 150px 32px 150px;
+}
+.footer-img img{
+    margin: 0px 10px;
+}
